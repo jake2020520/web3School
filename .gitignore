@@ -13,7 +13,9 @@ node_modules
 *.next
 .next
 *.next
-
+*.vep
+*.zip
+*.rar
 # Log files
 npm-debug.log*
 yarn-debug.log*
